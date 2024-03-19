@@ -1,7 +1,6 @@
 const display = document.getElementById("display");
 
-display.value = JSON.parse(localStorage.getItem("lastResult")) || "Calculated Value";
-
+display.value = JSON.parse(localStorage.getItem("lastResult")) || ""
 function inputWriter(input) {
     display.value += input;
 }
