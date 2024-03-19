@@ -7,7 +7,7 @@ function inputWriter(input) {
 }
 
 function inputClear() {
-    display.value = "";
+    display.value = "Cleared";
 }
 
 function inputCalculate() {
