@@ -2,7 +2,7 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
-    background-image: url('wallpaperflare.com_wallpaper (3).jpg');
+    background-image: url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRoOHdpMTJ1dmJmc2xyenYwbGF3NWN4Y2I5ODQ5Y3R3dDI3eXpoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FeUjF88goLxusOQ/giphy.gif');
     background-size:cover;
     justify-content: center;
     width: 98vw;
